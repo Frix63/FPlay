@@ -1,0 +1,16 @@
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\bin\Debug\FMusicPlay2.exe.config
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\bin\Debug\FMusicPlay2.exe
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\bin\Debug\FMusicPlay2.pdb
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\bin\Debug\Interop.WMPLib.dll
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.csproj.AssemblyReference.cache
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.csproj.SuggestedBindingRedirects.cache
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\Interop.WMPLib.dll
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.csproj.ResolveComReference.cache
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.Form1.resources
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.Properties.Resources.resources
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.csproj.GenerateResource.cache
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.csproj.CoreCompileInputs.cache
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.exe
+C:\Users\FrixL\OneDrive\Dokumenty\MyScripts\FMusicPlay2\FMusicPlay2\obj\Debug\FMusicPlay2.pdb
